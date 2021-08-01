@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/第1章 基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/第2章 排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/第3章 查找.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/第4章 图.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/第5章 字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/第6章 背景.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +59,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\notes" />
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\src" />
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\notes" />
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -75,11 +89,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627810439841</updated>
-      <workItem from="1627810443406" duration="1091000" />
+      <workItem from="1627810443406" duration="1416000" />
+      <workItem from="1627813344601" duration="175000" />
+      <workItem from="1627813592828" duration="37000" />
+      <workItem from="1627813647790" duration="367000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1627813601049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813601048" />
+    <state x="552" y="178" key="#Plugins" timestamp="1627813358321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Plugins/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813358321" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1627813835308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813835308" />
+    <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627813226622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813226622" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1627813630355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813630355" />
   </component>
 </project>
