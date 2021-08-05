@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/《算法 第4版》封面.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第1章 基础.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第2章 排序.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第3章 查找.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第4章 图.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第5章 字符串.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第6章 背景.md" beforeDir="false" />
-    </list>
+    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/notes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,7 +88,7 @@
       <workItem from="1627813592828" duration="37000" />
       <workItem from="1627813647790" duration="1253000" />
       <workItem from="1627820314249" duration="25000" />
-      <workItem from="1628169154599" duration="1203000" />
+      <workItem from="1628169154599" duration="1647000" />
     </task>
     <servers />
   </component>
