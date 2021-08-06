@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第1章-基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第1章-基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第2章-排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第2章-排序.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第3章-查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第3章-查找.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第4章-图.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第4章-图.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第5章-字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第5章-字符串.md" afterDir="false" />
-    </list>
+    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,16 +53,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/stdlib.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -123,9 +115,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813226622" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1627813630355">
+    <state x="655" y="328" key="FileChooserDialogImpl" timestamp="1628223646066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813630355" />
+    <state x="655" y="328" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223646066" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1628223650401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223650401" />
   </component>
 </project>
