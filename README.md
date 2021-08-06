@@ -5,7 +5,7 @@
 图书主页：<https://algs4.cs.princeton.edu/home/>  
 代码和数据：<https://algs4.cs.princeton.edu/code/>  
 代码：<https://github.com/kevin-wayne/algs4.git>  
-data（由于github上传文件大小限制，删除了几个大于50M的数据）: ./resources/algs4-data
+数据：<https://algs4.cs.princeton.edu/code/algs4-data.zip>
 
 # 2. 笔记
 [第1章-基础](./notes/第1章-基础.md)  
