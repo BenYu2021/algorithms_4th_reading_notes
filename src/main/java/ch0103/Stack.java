@@ -62,7 +62,6 @@ public class Stack<Item> implements Iterable<Item> {
     }
 
     private class ListIterator implements Iterator<Item> {
-
         private Node current = first;
 
         @Override

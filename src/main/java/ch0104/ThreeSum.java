@@ -11,7 +11,6 @@ import edu.princeton.cs.algs4.StdOut;
  */
 public class ThreeSum {
 
-
     public static int count(int[] a) {
         // 统计和为0的元组的数量
         int N = a.length;
@@ -49,10 +48,7 @@ public class ThreeSum {
                     if (a[i] > 0 && a[j] > 0 && a[k] > 0) continue;
                     if (a[i] < 0 && a[j] < 0 && a[k] < 0) continue;
 
-
                     if (a[i] + a[j] + a[k] == 0) {
-
-
                         cnt++;
 //                        System.out.println(a[k]);
 //                        System.out.println("(i,j) = " + a[i] + "," + a[j]);

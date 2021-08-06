@@ -2,12 +2,14 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/comandline.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/ch01/Queue.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch01/ResizingArrayStack.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/ch01/Stack.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Evaluate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Bag.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Evaluate.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Evaluate1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Queue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Queue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Stack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Stack.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0104/DoublingRatio.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0104/DoublingTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0104/StopWatch.java" charset="GBK" />
@@ -15,6 +17,11 @@
     <file url="file://$PROJECT_DIR$/src/main/java/ch0104/ThreeSumFast.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0104/TwoSum.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0104/TwoSumFast.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0201/Example.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0201/Insertion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0201/Selection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0201/Shell.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0201/SortCompare.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter101/BinarySearch0.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter101/Exercise01.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter101/Exercise02.java" charset="GBK" />

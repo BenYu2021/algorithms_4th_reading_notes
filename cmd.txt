@@ -1,0 +1,23 @@
+
+ch0201
+
+# 进入目录
+algorithms_4th_reading_notes\src\main\java\
+
+# 编译 ch0201.Selection
+javac -Xlint:unchecked ch0201\Selection.java
+
+# 编译警告
+/*
+Selection.java:38: 警告: [unchecked] 对作为原始类型Comparable的成员的compareTo(T)的调用未经过检查
+        return v.compareTo(w) < 0;
+                          ^
+  其中, T是类型变量:
+    T扩展已在接口 Comparable中声明的Object
+1 个警告
+
+*/
+
+# 运行
+java ch0201.Selection < ch0201\data
+

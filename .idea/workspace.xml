@@ -2,89 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/comandline.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/NoCapacityException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/ResizingArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch01/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0103/Evaluate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0103/Evaluate1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0103/FixedCapacityStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0103/FixedCapacityStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0104/DoublingRatio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0104/DoublingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0104/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0104/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0104/ThreeSumFast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0104/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0104/TwoSumFast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cha01temp/FixedCapacityStackOfStrings01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/BinarySearch0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Exercise35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter101/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/DoublingStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/Evaluate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/FixedCapacityStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/FixedCapacityStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/RandomBag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/ResizingArrayDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/ResizingArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter103/Steque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter104/DoublingRatio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter104/DoublingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter104/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter104/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter104/ThreeSumFast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter104/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter104/TwoSumFast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter105/QuickFindUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter105/QuickUnionUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter105/WeightQuickUnionUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter201/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter201/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter201/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter201/Shell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter201/SortCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter202/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter202/MergeBU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter203/Quick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter203/Quick3way.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter204/HeapMaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter204/MaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter301/BinarySearchST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter301/FrequencyCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter301/ST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter301/ST311.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter301/SequentialSearchST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0103/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/Selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/Shell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/SortCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes/第1章-基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第1章-基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cha01temp/Bag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/Bag1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/temp/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cha01temp/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/temp/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cha01temp/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第2章-排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第2章-排序.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0103/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0103/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0104/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0104/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0104/TwoSumFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0104/TwoSumFast.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +71,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ch0201" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -147,23 +81,27 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Markdown" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\algorithms_4th_reading_notes" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch0201" />
       <recent name="ch0103" />
       <recent name="ch0104" />
       <recent name="ch01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java\ch0201" />
       <recent name="C:\GitHub\algorithms_4th_reading_notes" />
       <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java" />
       <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java\ch0104" />
       <recent name="C:\GitHub\algorithms_4th_reading_notes\notes" />
-      <recent name="C:\GitHub\algorithms_4th_reading_notes\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Evaluate1">
+  <component name="RunManager" selected="Application.Selection">
     <configuration name="DoublingRatio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch0104.DoublingRatio" />
       <module name="algorithms_4th_reading_notes" />
@@ -216,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixedCapacityStackOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0103.FixedCapacityStackOfStrings" />
+    <configuration name="Selection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch0201.Selection" />
       <module name="algorithms_4th_reading_notes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cha01temp.*" />
+          <option name="PATTERN" value="ch0201.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Selection" />
         <item itemvalue="Application.Evaluate1" />
         <item itemvalue="Application.Evaluate" />
         <item itemvalue="Application.DoublingRatio" />
         <item itemvalue="Application.FixedCapacityStack" />
-        <item itemvalue="Application.FixedCapacityStackOfStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +194,7 @@
       <workItem from="1627820314249" duration="25000" />
       <workItem from="1628169154599" duration="1647000" />
       <workItem from="1628229794940" duration="10865000" />
+      <workItem from="1628256033609" duration="6834000" />
     </task>
     <servers />
   </component>
@@ -278,42 +217,44 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813835308" />
-    <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627813226622">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1226" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628261438092">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1226" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628261438092" />
     <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813226622" />
     <state x="655" y="328" key="FileChooserDialogImpl" timestamp="1628223646066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="328" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223646066" />
-    <state width="1542" height="173" key="GridCell.Tab.0.bottom" timestamp="1628241004948">
+    <state width="1542" height="369" key="GridCell.Tab.0.bottom" timestamp="1628262297633">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1542" height="173" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628241004948" />
+    <state width="1542" height="369" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628262297633" />
     <state width="1860" height="131" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232341823" />
-    <state width="1542" height="173" key="GridCell.Tab.0.center" timestamp="1628241004947">
+    <state width="1542" height="369" key="GridCell.Tab.0.center" timestamp="1628262297633">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1542" height="173" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628241004947" />
+    <state width="1542" height="369" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628262297633" />
     <state width="1860" height="131" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232341823" />
-    <state width="1542" height="173" key="GridCell.Tab.0.left" timestamp="1628241004947">
+    <state width="1542" height="369" key="GridCell.Tab.0.left" timestamp="1628262297633">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1542" height="173" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628241004947" />
+    <state width="1542" height="369" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628262297633" />
     <state width="1860" height="131" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232341822" />
-    <state width="1542" height="173" key="GridCell.Tab.0.right" timestamp="1628241004948">
+    <state width="1542" height="369" key="GridCell.Tab.0.right" timestamp="1628262297633">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1542" height="173" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628241004948" />
+    <state width="1542" height="369" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628262297633" />
     <state width="1860" height="131" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232341823" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1628223650401">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor" timestamp="1628260810555">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628260810555" />
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223650401" />
-    <state x="427" y="94" width="1377" height="840" maximized="true" key="dock-window-1" timestamp="1628232576213">
+    <state x="427" y="94" width="1377" height="840" maximized="true" key="dock-window-1" timestamp="1628256058456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="427" y="94" width="1377" height="840" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628232576213" />
+    <state x="427" y="94" width="1377" height="840" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628256058456" />
     <state x="-1359" y="109" width="1377" height="840" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232184147" />
     <state x="-988" y="284" width="647" height="534" key="find.popup" timestamp="1628232744875">
       <screen x="-1920" y="0" width="1920" height="1040" />
