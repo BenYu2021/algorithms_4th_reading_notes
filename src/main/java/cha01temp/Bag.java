@@ -1,4 +1,4 @@
-package ch01;
+package cha01temp;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
@@ -44,7 +44,7 @@ public class Bag<Item> implements Iterable<Item> {
 //    }
 
     /**
-     * 节点
+     * 节点类
      * @param <Item>
      */
     private static class Node<Item> {
@@ -122,11 +122,18 @@ public class Bag<Item> implements Iterable<Item> {
         /**
          * Bag不支持删除元素的操作
          */
-
         public void remove() {
             throw new UnsupportedOperationException();
         }
 
+    }
+
+    @Override
+    public String toString() {
+        return "Bag{" +
+                "first=" + first +
+                ", n=" + n +
+                '}';
     }
 
     public static void main(String[] args) {
@@ -142,13 +149,5 @@ public class Bag<Item> implements Iterable<Item> {
         }
 
 
-    }
-
-    @Override
-    public String toString() {
-        return "Bag{" +
-                "first=" + first +
-                ", n=" + n +
-                '}';
     }
 }

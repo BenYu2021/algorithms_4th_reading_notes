@@ -1,4 +1,4 @@
-package temp;
+package cha01temp;
 
 import java.util.Iterator;
 
@@ -8,17 +8,18 @@ import java.util.Iterator;
  * @version: 1.0.0
  * @description:
  */
-public class Queue<Item> implements Iterable<Item>{
+public class Stack<Item> implements Iterable<Item> {
 
-    public Queue(){
-
-    }
-
-    public void enqueue(Item item) {
+    public Stack(){
 
     }
 
-    public Item dequeue() {
+    public void push(Item item) {
+
+    }
+
+    public Item pop() {
+
         return null;
     }
 
@@ -30,6 +31,7 @@ public class Queue<Item> implements Iterable<Item>{
     public int size() {
         return 0;
     }
+
 
     /**
      * Returns an iterator over elements of type {@code T}.

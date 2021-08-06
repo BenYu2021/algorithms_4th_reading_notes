@@ -1,0 +1,17 @@
+javac -Xlint:deprecation  chapter104\TwoSum.java
+java  chapter104.TwoSum 32Kints.txt
+
+javac -Xlint:deprecation  chapter104\TwoSumFast.java
+java  chapter104.TwoSumFast 32Kints.txt
+
+
+javac -Xlint:deprecation  chapter104\ThreeSum.java
+java  chapter104.ThreeSum 1Kints.txt > ThreeSum1k
+
+javac -Xlint:deprecation  chapter104\ThreeSumFast.java
+java  chapter104.ThreeSumFast 1Kints.txt >ThreeSumFast1k
+
+"C:\Program Files\Java\jdk-11.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\lib\idea_rt.jar=57327:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\bin" -Dfile.encoding=UTF-8 -classpath C:\gitee\notes\algorithms\out\production\algorithms;C:\software\jar_lib\algs4.jar chapter104.DoublingRatio
+
+javac  -Xlint:deprecation  -Xlint:unchecked chapter201\Selection.java
+
