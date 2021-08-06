@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="" />
+    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第1章-基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第1章-基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch01/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/temp/Bag1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch01/Bag1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +95,7 @@
       <workItem from="1627813647790" duration="1253000" />
       <workItem from="1627820314249" duration="25000" />
       <workItem from="1628169154599" duration="1647000" />
+      <workItem from="1628229794940" duration="1619000" />
     </task>
     <servers />
   </component>
@@ -123,5 +130,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223650401" />
+    <state x="-1113" y="103" width="2715" height="840" key="dock-window-1" timestamp="1628230592539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1113" y="103" width="2715" height="840" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628230592539" />
   </component>
 </project>

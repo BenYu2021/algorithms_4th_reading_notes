@@ -1,6 +1,6 @@
 # algorithms_4th_reading_notes
 # Algorithms 4th reading notes 
-#《算法 第4版》笔记
+# 《算法 第4版》笔记
 # 1. 图书资源
 图书主页：<https://algs4.cs.princeton.edu/home/>  
 代码和数据：<https://algs4.cs.princeton.edu/code/>  
