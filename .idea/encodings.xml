@@ -7,8 +7,6 @@
     <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Evaluate.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Evaluate1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Queue.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Queue.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Stack.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0103/Stack.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0104/DoublingRatio.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0104/DoublingTest.java" charset="GBK" />
@@ -22,6 +20,10 @@
     <file url="file://$PROJECT_DIR$/src/main/java/ch0201/Selection.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0201/Shell.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/ch0201/SortCompare.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0202/Merge.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0202/MergeBU.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0203/Quick.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ch0203/Quick3way.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter101/BinarySearch0.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter101/Exercise01.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/chapter101/Exercise02.java" charset="GBK" />

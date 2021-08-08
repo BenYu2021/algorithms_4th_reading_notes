@@ -18,7 +18,7 @@ public class Insertion {
      */
     public static void sort(Comparable[] a) {
         int N = a.length;
-        for (int i = 0; i < N; i++) { // 将a[i]插入到a[0]...a[i-1]
+        for (int i = 1; i < N; i++) { // 将a[i]插入到a[0]...a[i-1]，从第2个元素（数组索引为1）开始
             for (int j = i; j > 0 && less(a[j], a[j - 1]); j--) {
                 exch(a, j, j - 1);
             }

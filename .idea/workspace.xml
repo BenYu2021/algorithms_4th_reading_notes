@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cmd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0103/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/Shell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/SortCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0201/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0202/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0202/MergeBU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0203/Quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0203/Quick3way.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第1章-基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第1章-基础.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes/第2章-排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第2章-排序.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0103/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0103/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch0104/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0104/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch0104/TwoSumFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0104/TwoSumFast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0201/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0201/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0201/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0201/Shell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0201/SortCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0201/SortCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter201/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter201/Insertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter201/Selection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter201/Shell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter201/SortCompare.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ch0201" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ch0203" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,8 +81,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Markdown" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java\ch0203" />
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java\ch0202" />
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java\ch0201" />
       <recent name="C:\GitHub\algorithms_4th_reading_notes" />
+      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch0201" />
@@ -93,21 +94,17 @@
       <recent name="ch0104" />
       <recent name="ch01" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java\ch0201" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\algorithms_4th_reading_notes" />
-      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java" />
-      <recent name="C:\GitHub\algorithms_4th_reading_notes\src\main\java\ch0104" />
-      <recent name="C:\GitHub\algorithms_4th_reading_notes\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Selection">
-    <configuration name="DoublingRatio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0104.DoublingRatio" />
+  <component name="RunManager" selected="Application.SortCompare">
+    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch0201.Insertion" />
       <module name="algorithms_4th_reading_notes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch0104.*" />
+          <option name="PATTERN" value="ch0201.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Evaluate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0103.Evaluate" />
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch0202.Merge" />
       <module name="algorithms_4th_reading_notes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch0103.*" />
+          <option name="PATTERN" value="ch0202.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Evaluate1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0103.Evaluate1" />
+    <configuration name="Quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch0203.Quick" />
       <module name="algorithms_4th_reading_notes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch0103.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FixedCapacityStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0103.FixedCapacityStack" />
-      <module name="algorithms_4th_reading_notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cha01temp.*" />
+          <option name="PATTERN" value="ch0203.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,13 +151,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch0201.SortCompare" />
+      <module name="algorithms_4th_reading_notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch0201.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortCompare" />
+        <item itemvalue="Application.Quick" />
+        <item itemvalue="Application.Merge" />
+        <item itemvalue="Application.Insertion" />
         <item itemvalue="Application.Selection" />
-        <item itemvalue="Application.Evaluate1" />
-        <item itemvalue="Application.Evaluate" />
-        <item itemvalue="Application.DoublingRatio" />
-        <item itemvalue="Application.FixedCapacityStack" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +191,9 @@
       <workItem from="1627820314249" duration="25000" />
       <workItem from="1628169154599" duration="1647000" />
       <workItem from="1628229794940" duration="10865000" />
-      <workItem from="1628256033609" duration="6834000" />
+      <workItem from="1628256033609" duration="7258000" />
+      <workItem from="1628402723808" duration="2777000" />
+      <workItem from="1628419185003" duration="14579000" />
     </task>
     <servers />
   </component>
@@ -226,39 +225,47 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="328" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223646066" />
-    <state width="1542" height="369" key="GridCell.Tab.0.bottom" timestamp="1628262297633">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom" timestamp="1628432591827">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1542" height="369" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628262297633" />
-    <state width="1860" height="131" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232341823" />
-    <state width="1542" height="369" key="GridCell.Tab.0.center" timestamp="1628262297633">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1542" height="368" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628263296778" />
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628432591827" />
+    <state width="1877" height="327" key="GridCell.Tab.0.center" timestamp="1628432591827">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1542" height="369" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628262297633" />
-    <state width="1860" height="131" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232341823" />
-    <state width="1542" height="369" key="GridCell.Tab.0.left" timestamp="1628262297633">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1542" height="368" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628263296778" />
+    <state width="1877" height="327" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628432591827" />
+    <state width="1877" height="327" key="GridCell.Tab.0.left" timestamp="1628432591827">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1542" height="369" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628262297633" />
-    <state width="1860" height="131" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232341822" />
-    <state width="1542" height="369" key="GridCell.Tab.0.right" timestamp="1628262297633">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1542" height="368" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628263296778" />
+    <state width="1877" height="327" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628432591827" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right" timestamp="1628432591827">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1542" height="369" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628262297633" />
-    <state width="1860" height="131" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232341823" />
+    <state width="1542" height="368" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628263296778" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628432591827" />
     <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor" timestamp="1628260810555">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628260810555" />
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223650401" />
-    <state x="427" y="94" width="1377" height="840" maximized="true" key="dock-window-1" timestamp="1628256058456">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1169" y="0" width="1185" height="717" key="dock-window-1" timestamp="1628419346197">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="427" y="94" width="1377" height="840" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628256058456" />
-    <state x="-1359" y="109" width="1377" height="840" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628232184147" />
+    <state x="-1169" y="0" width="1185" height="717" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628419346197" />
+    <state x="-1169" y="0" width="1185" height="717" key="dock-window-2" timestamp="1628419533807">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1169" y="0" width="1185" height="717" key="dock-window-2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628419533807" />
     <state x="-988" y="284" width="647" height="534" key="find.popup" timestamp="1628232744875">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-988" y="284" width="647" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628232744875" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1628405805771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628405805771" />
   </component>
 </project>

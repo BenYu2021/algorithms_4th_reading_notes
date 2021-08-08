@@ -6,7 +6,7 @@ import edu.princeton.cs.algs4.StdOut;
  * @author: ymm
  * @date: 2021/7/4
  * @version: 1.0.0
- * @description: 希尔排序
+ * @description: 算法2.3希尔排序
  */
 public class Shell {
 
@@ -20,7 +20,7 @@ public class Shell {
         int h = 1;
         // 根据数组长度计算出一个h
         while (h < N / 3) h = 3 * h + 1; // 1，4,13,40,121,364，1093，...
-        System.out.println("N = " + N + ",h = " + h);
+//        System.out.println("N = " + N + ",h = " + h);
         while (h >= 1) {
             // 将数组变为h有序
             for (int i = h; i < N; i++) {
