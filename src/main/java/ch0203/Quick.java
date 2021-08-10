@@ -33,7 +33,7 @@ public class Quick {
             if (i >= j) break;
             exch(a, i, j);
         }
-        exch(a, lo, j); // 将v=a[j] 放到正确的位置
+        exch(a, lo, j); // 将v=a[j] 放到正确的位置，此时，a[lo..j-1] < a[j]
         return j; // a[1..j-1] <= a[j] <= a[j+1..hi]达成
     }
 
