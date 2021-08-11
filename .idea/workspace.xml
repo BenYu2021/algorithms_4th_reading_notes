@@ -2,16 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0204/HeapMaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0204/IndexMinPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0204/MaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0301/BinarySearchST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0301/FrequencyCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0301/ST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0301/ST311.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0301/SequentialSearchST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第2章-排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第2章-排序.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch0203/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0203/Quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0301/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0303/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第3章-查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第3章-查找.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0301/BinarySearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0301/BinarySearchST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0301/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0301/FrequencyCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0301/ST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0301/ST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch0301/SequentialSearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0301/SequentialSearchST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/BinarySearch0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/GCD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Deque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/DoublingStackOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Evaluate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/FixedCapacityStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/FixedCapacityStackOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/RandomBag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/ResizingArrayDeque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/ResizingArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Steque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/DoublingRatio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/DoublingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/ThreeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/ThreeSumFast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/TwoSumFast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter105/QuickFindUF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter105/QuickUnionUF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter105/WeightQuickUnionUF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter202/Merge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter202/MergeBU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter203/Quick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter203/Quick3way.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter204/HeapMaxPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter204/MaxPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/BinarySearchST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/FrequencyCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/ST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/ST311.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/SequentialSearchST.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,26 +147,13 @@
       <recent name="C:\GitHub\algorithms_4th_reading_notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeapMaxPQ">
+  <component name="RunManager" selected="Application.ST">
     <configuration name="HeapMaxPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch0204.HeapMaxPQ" />
       <module name="algorithms_4th_reading_notes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch0204.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0201.Insertion" />
-      <module name="algorithms_4th_reading_notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch0201.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,6 +187,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch0301.ST" />
+      <module name="algorithms_4th_reading_notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch0301.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch0201.SortCompare" />
       <module name="algorithms_4th_reading_notes" />
@@ -162,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ST" />
         <item itemvalue="Application.HeapMaxPQ" />
         <item itemvalue="Application.SortCompare" />
         <item itemvalue="Application.Quick" />
         <item itemvalue="Application.Merge" />
-        <item itemvalue="Application.Insertion" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +244,11 @@
       <workItem from="1628402723808" duration="2777000" />
       <workItem from="1628419185003" duration="14977000" />
       <workItem from="1628466175212" duration="5105000" />
-      <workItem from="1628549751962" duration="7440000" />
+      <workItem from="1628549751962" duration="9488000" />
+      <workItem from="1628593171305" duration="8445000" />
+      <workItem from="1628643190208" duration="6417000" />
+      <workItem from="1628650056497" duration="2827000" />
+      <workItem from="1628678071978" duration="11816000" />
     </task>
     <servers />
   </component>
@@ -219,56 +276,58 @@
     </state>
     <state x="-1226" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628261438092" />
     <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813226622" />
-    <state x="-955" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1628578270188">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="965" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1628648253993">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-955" y="223" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628578270188" />
+    <state x="965" y="223" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628648253993" />
     <state x="655" y="328" key="FileChooserDialogImpl" timestamp="1628223646066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="328" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223646066" />
-    <state width="1542" height="145" key="GridCell.Tab.0.bottom" timestamp="1628579343923">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1628602950727">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1542" height="145" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628579343923" />
-    <state width="1877" height="157" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628434852664" />
-    <state width="1542" height="145" key="GridCell.Tab.0.center" timestamp="1628579343923">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628602950727" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1628602950727">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1542" height="145" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628579343923" />
-    <state width="1877" height="157" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628434852663" />
-    <state width="1542" height="145" key="GridCell.Tab.0.left" timestamp="1628579343923">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628602950727" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1628602950726">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1542" height="145" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628579343923" />
-    <state width="1877" height="157" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628434852663" />
-    <state width="1542" height="145" key="GridCell.Tab.0.right" timestamp="1628579343923">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628602950726" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1628602950727">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1542" height="145" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628579343923" />
-    <state width="1877" height="157" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628434852664" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628602950727" />
     <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor" timestamp="1628260810555">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628260810555" />
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223650401" />
-    <state x="429" y="0" width="1171" height="981" maximized="true" key="dock-window-1" timestamp="1628557983017">
+    <state x="158" y="0" width="1936" height="1048" maximized="true" key="dock-window-1" timestamp="1628686120531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="429" y="0" width="1171" height="981" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628557983017" />
-    <state x="-1495" y="0" width="1511" height="1027" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628466204205" />
-    <state x="-1169" y="0" width="1185" height="717" key="dock-window-2" timestamp="1628419533807">
+    <state x="158" y="0" width="1936" height="1048" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628686120531" />
+    <state x="-1490" y="0" width="1506" height="854" key="dock-window-2" timestamp="1628593245114">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1169" y="0" width="1185" height="717" key="dock-window-2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628419533807" />
-    <state x="-988" y="284" width="647" height="534" key="find.popup" timestamp="1628232744875">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="-1490" y="0" width="1506" height="854" key="dock-window-2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628593245114" />
+    <state x="932" y="284" width="647" height="534" key="find.popup" timestamp="1628650117294">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-988" y="284" width="647" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628232744875" />
-    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1628578361307">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="932" y="284" width="647" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628650117294" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1628580599371">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628578361307" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628405805771" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628580599371" />
   </component>
 </project>

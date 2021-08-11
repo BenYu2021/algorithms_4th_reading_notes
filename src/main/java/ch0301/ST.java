@@ -3,6 +3,8 @@ package ch0301;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
+import java.util.Iterator;
+import java.util.NoSuchElementException;
 import java.util.TreeMap;
 
 /**
@@ -11,7 +13,7 @@ import java.util.TreeMap;
  * @version: 1.0.0
  * @description: 一种有序的符号表API
  */
-public class ST<Key extends Comparable<Key>, Value> {
+public class ST<Key extends Comparable<Key>, Value> implements Iterable<Key> {
 
     private TreeMap<Key, Value> st;
 
@@ -22,6 +24,16 @@ public class ST<Key extends Comparable<Key>, Value> {
         st = new TreeMap<Key, Value>();
     }
 
+    /**
+     * 获取key对应的值
+     *
+     * @param key
+     * @return
+     */
+    public Value get(Key key) {
+        if (key == null) throw new IllegalArgumentException("calls get() with null key");
+        return st.get(key);
+    }
 
     /**
      * 将键值存入表中（若值为空将键key从表中删除）
@@ -30,17 +42,9 @@ public class ST<Key extends Comparable<Key>, Value> {
      * @param val
      */
     public void put(Key key, Value val) {
-
-    }
-
-    /**
-     * 获取key对应的值
-     *
-     * @param key
-     * @return
-     */
-    public Value get(Key key) {
-        return null;
+        if (key == null) throw new IllegalArgumentException("calls put() with null key");
+        if (val == null) st.remove(key);
+        else st.put(key, val);
     }
 
     /**
@@ -49,7 +53,13 @@ public class ST<Key extends Comparable<Key>, Value> {
      * @param key
      */
     public void delete(Key key) {
+        if (key == null) throw new IllegalArgumentException("calls delete() with null key");
+        st.remove(key);
+    }
 
+    public void remove(Key key) {
+        if (key == null) throw new IllegalArgumentException("calls remove() with null key");
+        st.remove(key);
     }
 
     /**
@@ -59,16 +69,8 @@ public class ST<Key extends Comparable<Key>, Value> {
      * @return
      */
     public boolean contains(Key key) {
-        return false;
-    }
-
-    /**
-     * 表是否为空
-     *
-     * @return
-     */
-    public boolean isEmpty() {
-        return false;
+        if (key == null) throw new IllegalArgumentException("calls contains() with null key");
+        return st.containsKey(key);
     }
 
     /**
@@ -77,9 +79,31 @@ public class ST<Key extends Comparable<Key>, Value> {
      * @return
      */
     public int size() {
-        return 0;
+        return st.size();
     }
 
+    /**
+     * 表是否为空
+     *
+     * @return
+     */
+    public boolean isEmpty() {
+        return size() == 0;
+    }
+
+    /**
+     * 表中所有键的集合，已排序
+     *
+     * @return
+     */
+    public Iterable<Key> keys() {
+        return st.keySet();
+    }
+
+    @Override
+    public Iterator<Key> iterator() {
+        return st.keySet().iterator();
+    }
 
     /**
      * 最小的键
@@ -87,7 +111,8 @@ public class ST<Key extends Comparable<Key>, Value> {
      * @return
      */
     public Key min() {
-        return null;
+        if (isEmpty()) throw new NoSuchElementException("calls min() with empty symbol table");
+        return st.firstKey();
     }
 
     /**
@@ -96,18 +121,8 @@ public class ST<Key extends Comparable<Key>, Value> {
      * @return
      */
     public Key max() {
-        return null;
-    }
-
-
-    /**
-     * 小于等于key的最大键
-     *
-     * @param key
-     * @return
-     */
-    public Key floor(Key key) {
-        return null;
+        if (isEmpty()) throw new NoSuchElementException("calls max() with empty symbol table");
+        return st.lastKey();
     }
 
     /**
@@ -117,81 +132,35 @@ public class ST<Key extends Comparable<Key>, Value> {
      * @return
      */
     public Key ceiling(Key key) {
-        return null;
+        if (key == null) throw new IllegalArgumentException("argument to ceiling() is null");
+        Key k = st.ceilingKey(key);
+        if (k == null) throw new NoSuchElementException("argument to ceiling() is too large");
+        return k;
     }
 
-
     /**
-     * 小于key的键数量
+     * 小于等于key的最大键
      *
      * @param key
      * @return
      */
-    public int rank(Key key) {
-        return 0;
+    public Key floor(Key key) {
+        if (key == null) throw new IllegalArgumentException("argument to floor() is null");
+        Key k = st.floorKey(key);
+        if (k == null) throw new NoSuchElementException("argument to floor() is too small");
+        return k;
     }
 
     /**
-     * 排名为k的键
+     * 简单的符号呢测试用例
      *
-     * @param k
-     * @return
+     * @param args
      */
-    public Key select(int k) {
-        return null;
-    }
-
-    /**
-     * 删除最小的键
-     */
-    public void deleteMin() {
-
-    }
-
-    /**
-     * 删除最大的键
-     */
-    public void deleteMax() {
-
-    }
-
-
-    /**
-     * [lo,hi]之间的键的数量
-     *
-     * @param lo
-     * @param hi
-     * @return
-     */
-    public int size(int lo, int hi) {
-        return 0;
-    }
-
-
-    /**
-     * @param lo
-     * @param hi
-     * @return
-     */
-    public Iterable<Key> keys(int lo, int hi) {
-        return null;
-    }
-
-    /**
-     * 表中所有键的集合，已排序
-     *
-     * @return
-     */
-    public Iterable<Key> keys() {
-        return null;
-    }
-
-
     public static void main(String[] args) {
-        chapter301.ST<String, Integer> st;
-        st = new chapter301.ST<String, Integer>();
+        ST<String, Integer> st;
+        st = new ST<String, Integer>();
 
-        for (int i = 0; !st.isEmpty(); i++) {
+        for (int i = 0; !StdIn.isEmpty(); i++) {
             String key = StdIn.readString();
             st.put(key, i);
         }
@@ -200,4 +169,23 @@ public class ST<Key extends Comparable<Key>, Value> {
             StdOut.println(s + " " + st.get(s));
         }
     }
+
 }
+/*
+
+输入：
+S E A R C H E X A M P L E
+
+输出（因为TreeMap是有序的）：
+A 8
+C 4
+E 12
+H 5
+L 11
+M 9
+P 10
+R 3
+S 0
+X 7
+
+ */
