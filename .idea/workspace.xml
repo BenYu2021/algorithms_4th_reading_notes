@@ -1,71 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0301/testdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch0303/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/第3章-查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第3章-查找.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch0301/BinarySearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0301/BinarySearchST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch0301/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0301/FrequencyCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch0301/ST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0301/ST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch0301/SequentialSearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch0301/SequentialSearchST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/BinarySearch0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Exercise35.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter101/Matrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Bag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Deque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/DoublingStackOfStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Evaluate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/FixedCapacityStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/FixedCapacityStackOfStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/RandomBag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/ResizingArrayDeque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/ResizingArrayStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter103/Steque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/DoublingRatio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/DoublingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/StopWatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/ThreeSumFast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter104/TwoSumFast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter105/QuickFindUF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter105/QuickUnionUF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter105/WeightQuickUnionUF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter202/Merge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter202/MergeBU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter203/Quick.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter203/Quick3way.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter204/HeapMaxPQ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter204/MaxPQ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/BinarySearchST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/FrequencyCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/ST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/ST311.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter301/SequentialSearchST.java" beforeDir="false" />
-    </list>
+    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +184,12 @@
       <workItem from="1628593171305" duration="8445000" />
       <workItem from="1628643190208" duration="6417000" />
       <workItem from="1628650056497" duration="2827000" />
-      <workItem from="1628678071978" duration="11816000" />
+      <workItem from="1628678071978" duration="12253000" />
+      <workItem from="1628726767681" duration="594000" />
+      <workItem from="1628732634184" duration="662000" />
+      <workItem from="1628766201327" duration="6955000" />
+      <workItem from="1628807351110" duration="676000" />
+      <workItem from="1628808058499" duration="8814000" />
     </task>
     <servers />
   </component>
@@ -276,11 +217,11 @@
     </state>
     <state x="-1226" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628261438092" />
     <state x="694" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627813226622" />
-    <state x="965" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1628648253993">
+    <state x="965" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1628813890473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-955" y="223" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628578270188" />
-    <state x="965" y="223" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628648253993" />
+    <state x="965" y="223" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628813890473" />
     <state x="655" y="328" key="FileChooserDialogImpl" timestamp="1628223646066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -310,11 +251,11 @@
     </state>
     <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628260810555" />
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223650401" />
-    <state x="158" y="0" width="1936" height="1048" maximized="true" key="dock-window-1" timestamp="1628686120531">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1409" y="25" width="1599" height="758" key="dock-window-1" timestamp="1628816171780">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="429" y="0" width="1171" height="981" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628557983017" />
-    <state x="158" y="0" width="1936" height="1048" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628686120531" />
+    <state x="-1409" y="25" width="1599" height="758" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628816171780" />
     <state x="-1490" y="0" width="1506" height="854" key="dock-window-2" timestamp="1628593245114">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -324,10 +265,14 @@
     </state>
     <state x="-988" y="284" width="647" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628232744875" />
     <state x="932" y="284" width="647" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628650117294" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1628580599371">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1628728070361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628728070361" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1628817147189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628578361307" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628580599371" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628817147189" />
   </component>
 </project>
