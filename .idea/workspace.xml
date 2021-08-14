@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="" />
+    <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/notes/第3章-查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第3章-查找.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +191,8 @@
       <workItem from="1628732634184" duration="662000" />
       <workItem from="1628766201327" duration="6955000" />
       <workItem from="1628807351110" duration="676000" />
-      <workItem from="1628808058499" duration="8814000" />
+      <workItem from="1628808058499" duration="9448000" />
+      <workItem from="1628895102182" duration="4576000" />
     </task>
     <servers />
   </component>
@@ -251,11 +254,11 @@
     </state>
     <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628260810555" />
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223650401" />
-    <state x="-1409" y="25" width="1599" height="758" key="dock-window-1" timestamp="1628816171780">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="328" y="25" width="1599" height="758" key="dock-window-1" timestamp="1628900253738">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="429" y="0" width="1171" height="981" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628557983017" />
-    <state x="-1409" y="25" width="1599" height="758" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628816171780" />
+    <state x="328" y="25" width="1599" height="758" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628900253738" />
     <state x="-1490" y="0" width="1506" height="854" key="dock-window-2" timestamp="1628593245114">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
