@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04dde306-dbce-45f7-a75b-3870bcb2343f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/notes/第3章-查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第3章-查找.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0500/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0500/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch0501/LSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/第5章-字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/第5章-字符串.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,39 +88,51 @@
       <recent name="C:\GitHub\algorithms_4th_reading_notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ST">
+  <component name="RunManager" selected="Application.Count">
+    <configuration name="Alphabet (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch0500.Alphabet" />
+      <module name="algorithms_4th_reading_notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch0500.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.princeton.cs.algs4.Alphabet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.princeton.cs.algs4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch0500.Count" />
+      <module name="algorithms_4th_reading_notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch0500.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HeapMaxPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch0204.HeapMaxPQ" />
       <module name="algorithms_4th_reading_notes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch0204.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0202.Merge" />
-      <module name="algorithms_4th_reading_notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch0202.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0203.Quick" />
-      <module name="algorithms_4th_reading_notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch0203.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,26 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch0201.SortCompare" />
-      <module name="algorithms_4th_reading_notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch0201.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count" />
+        <item itemvalue="Application.Alphabet (1)" />
+        <item itemvalue="Application.Alphabet" />
         <item itemvalue="Application.ST" />
         <item itemvalue="Application.HeapMaxPQ" />
-        <item itemvalue="Application.SortCompare" />
-        <item itemvalue="Application.Quick" />
-        <item itemvalue="Application.Merge" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +194,10 @@
       <workItem from="1628766201327" duration="6955000" />
       <workItem from="1628807351110" duration="676000" />
       <workItem from="1628808058499" duration="9448000" />
-      <workItem from="1628895102182" duration="4576000" />
+      <workItem from="1628895102182" duration="5384000" />
+      <workItem from="1628924324196" duration="24000" />
+      <workItem from="1629095093562" duration="7075000" />
+      <workItem from="1629114599580" duration="980000" />
     </task>
     <servers />
   </component>
@@ -203,6 +208,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1059" y="217" key="#Alphabet" timestamp="1629097036881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1059" y="217" key="#Alphabet/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629097036881" />
     <state x="552" y="178" key="#Notifications" timestamp="1627820327980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -225,57 +234,61 @@
     </state>
     <state x="-955" y="223" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628578270188" />
     <state x="965" y="223" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628813890473" />
-    <state x="655" y="328" key="FileChooserDialogImpl" timestamp="1628223646066">
+    <state x="655" y="328" key="FileChooserDialogImpl" timestamp="1629096127872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="328" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223646066" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1628602950727">
+    <state x="655" y="328" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629096127872" />
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1629102441257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1542" height="145" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628579343923" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628602950727" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1628602950727">
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629102441257" />
+    <state width="1877" height="255" key="GridCell.Tab.0.center" timestamp="1629102441257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1542" height="145" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628579343923" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628602950727" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1628602950726">
+    <state width="1877" height="255" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629102441257" />
+    <state width="1877" height="255" key="GridCell.Tab.0.left" timestamp="1629102441257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1542" height="145" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628579343923" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628602950726" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1628602950727">
+    <state width="1877" height="255" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629102441257" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right" timestamp="1629102441257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1542" height="145" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628579343923" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628602950727" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629102441257" />
     <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor" timestamp="1628260810555">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="162" width="1355" height="716" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628260810555" />
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628223650401" />
-    <state x="328" y="25" width="1599" height="758" key="dock-window-1" timestamp="1628900253738">
+    <state x="-14" y="43" width="2093" height="826" key="dock-window-1" timestamp="1629114606517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="429" y="0" width="1171" height="981" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628557983017" />
-    <state x="328" y="25" width="1599" height="758" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628900253738" />
-    <state x="-1490" y="0" width="1506" height="854" key="dock-window-2" timestamp="1628593245114">
+    <state x="-14" y="43" width="2093" height="826" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629114606517" />
+    <state x="-1615" y="0" width="1423" height="1075" key="dock-window-2" timestamp="1629114606517">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1490" y="0" width="1506" height="854" key="dock-window-2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628593245114" />
-    <state x="932" y="284" width="647" height="534" key="find.popup" timestamp="1628650117294">
+    <state x="-1615" y="0" width="1423" height="1075" key="dock-window-2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629114606517" />
+    <state x="932" y="284" width="647" height="534" key="find.popup" timestamp="1629096784731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-988" y="284" width="647" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628232744875" />
-    <state x="932" y="284" width="647" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628650117294" />
+    <state x="932" y="284" width="647" height="534" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629096784731" />
+    <state x="551" y="215" key="new project wizard" timestamp="1628924345893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="215" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628924345893" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1628728070361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628728070361" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1628817147189">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1629114824741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1628578361307" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628817147189" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1629114824741" />
   </component>
 </project>
